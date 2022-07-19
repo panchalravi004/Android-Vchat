@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vchat</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">SIGNUP</string>
+    <string name="uname">Username</string>
+    <string name="email">Email Address</string>
+    <string name="password">Password</string>
+
+</resources>
